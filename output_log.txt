@@ -1,0 +1,2 @@
+2025-09-15 16:41:17,489 [INFO] Hello both!
+Hello file only!

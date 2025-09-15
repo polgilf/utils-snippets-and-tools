@@ -1,0 +1,2 @@
+This will be written to filepath C:\Users\Pol\git\utils-snippets-and-tools\output_builtin_contextmanager.txt
+Hello world!
